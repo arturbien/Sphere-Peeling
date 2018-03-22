@@ -8,8 +8,8 @@ var objects = [];
 var plateObjects = [];
 
 var r = 30;
-var rotationSpeedX = 0;
-var rotationSpeedZ = 0.32;
+var rotationSpeedX = 0.2;
+var rotationSpeedZ = 0.2;
 const G = 0.5;
 
 init();
